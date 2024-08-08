@@ -12,7 +12,7 @@
 
 ### Links
 
-- Live Site URL: [Live Site]( https://yasseresam.github.io/Single-price-grid-component----FrontEnd-Mentor/)
+- Live Site URL: [Live Site]( https://mosnad-web01.github.io/Yasser-Alariqi----Single-price-grid-component/)
 
 ### Screenshot
 
